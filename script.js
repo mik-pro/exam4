@@ -1,6 +1,6 @@
 let course= prompt("1=ден 12-ге дейн сан енгызыныз:")
 
-let san =0
+ let san =0
 let sann=0
 let san2 =0
 let san3 =0
