@@ -52,7 +52,7 @@ changePhoneNumber(nameNember)
  }  
  console.log(shop);
  function listProductNames(params) {
-   return `${shop[0]}\n${shop[1]}\n${shop[2]}\n${shop[3]}`
+   return `${shop[0].productName}\n${shop[1].productName}\n${shop[2].productName}\n${shop[3].productName}`
  }
  alert(listProductNames())
  
