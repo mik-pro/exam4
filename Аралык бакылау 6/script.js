@@ -51,8 +51,8 @@ changePhoneNumber(nameNember)
     shop.phoneNamber=nameNember
  }  
  console.log(shop);
- function listProductNames(params) {
-   return `${shop[0].productName}\n${shop[1].productName}\n${shop[2].productName}\n${shop[3].productName}`
- }
- alert(listProductNames())
+//  function listProductNames(params) {
+//    return `${shop[0].productName}\n${shop[1].productName}\n${shop[2].productName}\n${shop[3].productName}`
+//  }
+//  alert(listProductNames())
  
